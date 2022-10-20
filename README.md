@@ -50,5 +50,11 @@ yarn add Flunt
 ## 贡献者
 
 感谢各位开发者做出的贡献...(_非全部_)
+## 贡献者(非全部)
+
+<a href="https://github.com/Found-404/Fl-UI/graphs/contributors">
+  <img width="400px" src="https://contrib.rocks/image?repo=Found-404/Fl-UI" />
+</a>
+
 
 
